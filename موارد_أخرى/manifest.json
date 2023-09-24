@@ -1,0 +1,32 @@
+{
+  "short_name": "مدينة الرياضيات",
+  "name": "سيف في مدينة الرياضيات",
+  "icons": [
+    {
+      "src": "/رسوم/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/رسوم/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "description": "لعبة لتعليم الرياضيات للأطفال بعمر 8 إلى 12 سنوات",
+  "orientation": "landscape",
+  "screenshots": [
+    {
+      "src": "/رسوم/شاشة_البداية.png",
+      "type": "image/png",
+      "sizes": "1280x800",
+      "form_factor": "wide"
+    }
+  ]
+}

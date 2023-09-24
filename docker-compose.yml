@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  postgres_db:
+    image: postgres:13-alpine
+    container_name: sayf_postgres
+    environment:
+      POSTGRES_USER: sayf
+      POSTGRES_PASSWORD: sayf
+    ports:
+      - 5432:5432
